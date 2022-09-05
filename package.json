@@ -1,0 +1,23 @@
+{
+  "name": "ci_cd_setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "test": "jest src/app.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikash-CTC/CI_CD_SetUp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikash-CTC/CI_CD_SetUp/issues"
+  },
+  "homepage": "https://github.com/vikash-CTC/CI_CD_SetUp#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
