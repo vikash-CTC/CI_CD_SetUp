@@ -40,5 +40,5 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12 # This is the action
         with:
           heroku_api_key: 6ea8e421-5e69-4c34-a005-486abbf4f096}
-          heroku_app_name: "YOUR APP's NAME" #Must be unique in Heroku
-          heroku_email: "YOUR EMAIL"
+          heroku_app_name: "cicdsetuptest" #Must be unique in Heroku
+          heroku_email: "vikashsharma778855@gmail.com"
